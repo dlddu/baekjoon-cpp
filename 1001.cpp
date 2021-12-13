@@ -2,9 +2,12 @@
 
 using namespace std;
 
-int q2557()
+int q1001()
 {
-	cout << "Hello World!";
+	int a, b;
+
+	cin >> a >> b;
+	cout << a - b;
 
 	return 0;
 }
