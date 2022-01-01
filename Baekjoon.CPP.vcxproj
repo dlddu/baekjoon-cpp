@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -145,7 +145,10 @@
     <ClCompile Include="10172.cpp" />
     <ClCompile Include="10430.cpp" />
     <ClCompile Include="10171.cpp" />
+    <ClCompile Include="1065.cpp" />
     <ClCompile Include="10718.cpp" />
+    <ClCompile Include="10809.cpp" />
+    <ClCompile Include="10818.cpp" />
     <ClCompile Include="10869.cpp" />
     <ClCompile Include="10871.cpp" />
     <ClCompile Include="10950.cpp" />
@@ -155,20 +158,31 @@
     <ClCompile Include="11021.cpp" />
     <ClCompile Include="11022.cpp" />
     <ClCompile Include="1110.cpp" />
+    <ClCompile Include="11654.cpp" />
+    <ClCompile Include="11720.cpp" />
     <ClCompile Include="1330.cpp" />
     <ClCompile Include="14681.cpp" />
+    <ClCompile Include="1546.cpp" />
     <ClCompile Include="15552.cpp" />
+    <ClCompile Include="15596.cpp" />
     <ClCompile Include="2438.cpp" />
     <ClCompile Include="2439.cpp" />
     <ClCompile Include="2557.cpp" />
     <ClCompile Include="1001.cpp" />
+    <ClCompile Include="2562.cpp" />
+    <ClCompile Include="2577.cpp" />
     <ClCompile Include="2588.cpp" />
+    <ClCompile Include="2675.cpp" />
     <ClCompile Include="2739.cpp" />
     <ClCompile Include="2741.cpp" />
     <ClCompile Include="2742.cpp" />
     <ClCompile Include="2753.cpp" />
     <ClCompile Include="2884.cpp" />
+    <ClCompile Include="3052.cpp" />
+    <ClCompile Include="4344.cpp" />
+    <ClCompile Include="4673.cpp" />
     <ClCompile Include="8393.cpp" />
+    <ClCompile Include="8958.cpp" />
     <ClCompile Include="9498.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
